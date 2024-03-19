@@ -1,7 +1,8 @@
 {
     "Name": "Champions of the Fog (2024)",
-    "Version": 1706776290,
+    "Version": 1710892469,
     "MaxPerkRepetition": 1,
+    "GlobalNotes": "Survivors: One of each character is allowed (e.g.: Dwight Fairfield, Meg Thomas, Claudette Morel, Jake Park). No duplicates.\n\nSurvivor Offerings: Survivors must bring Shroud of Binding, Vigo's Shroud, Annotated Blueprint, and Bloodied Blueprint.\n\nMap Pool:\nRound 1: Treatment Theatre\nRound 2: Suffocation Pit\nRound 3: Wrecker's Yard\nRound 4: Coal Tower\nRound 5: Dead Dawg Saloon",
     "Tiers": [
         {
             "Name": "General",
@@ -14,13 +15,14 @@
     "KillerOverride": [
         {
             "Name": "The Trapper",
+            "KillerNotes": "",
             "IsDisabled": false,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -109,13 +111,14 @@
         },
         {
             "Name": "The Wraith",
+            "KillerNotes": "",
             "IsDisabled": false,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -204,13 +207,14 @@
         },
         {
             "Name": "The Hillbilly",
+            "KillerNotes": "",
             "IsDisabled": true,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -299,13 +303,14 @@
         },
         {
             "Name": "The Nurse",
+            "KillerNotes": "",
             "IsDisabled": false,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -394,13 +399,14 @@
         },
         {
             "Name": "The Shape",
+            "KillerNotes": "",
             "IsDisabled": true,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -489,13 +495,14 @@
         },
         {
             "Name": "The Hag",
+            "KillerNotes": "",
             "IsDisabled": true,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -584,13 +591,14 @@
         },
         {
             "Name": "The Doctor",
+            "KillerNotes": "",
             "IsDisabled": false,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -679,13 +687,14 @@
         },
         {
             "Name": "The Huntress",
+            "KillerNotes": "",
             "IsDisabled": false,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -774,13 +783,14 @@
         },
         {
             "Name": "The Cannibal",
+            "KillerNotes": "",
             "IsDisabled": true,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -869,13 +879,14 @@
         },
         {
             "Name": "The Nightmare",
+            "KillerNotes": "",
             "IsDisabled": true,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -964,13 +975,14 @@
         },
         {
             "Name": "The Pig",
+            "KillerNotes": "",
             "IsDisabled": true,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -1059,13 +1071,14 @@
         },
         {
             "Name": "The Clown",
+            "KillerNotes": "",
             "IsDisabled": false,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -1154,13 +1167,14 @@
         },
         {
             "Name": "The Spirit",
+            "KillerNotes": "",
             "IsDisabled": false,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -1249,13 +1263,14 @@
         },
         {
             "Name": "The Legion",
+            "KillerNotes": "",
             "IsDisabled": true,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -1344,13 +1359,14 @@
         },
         {
             "Name": "The Plague",
+            "KillerNotes": "",
             "IsDisabled": true,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -1439,13 +1455,14 @@
         },
         {
             "Name": "The Ghost Face",
+            "KillerNotes": "",
             "IsDisabled": false,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -1534,13 +1551,14 @@
         },
         {
             "Name": "The Demogorgon",
+            "KillerNotes": "",
             "IsDisabled": true,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -1629,13 +1647,14 @@
         },
         {
             "Name": "The Oni",
+            "KillerNotes": "",
             "IsDisabled": true,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -1724,13 +1743,14 @@
         },
         {
             "Name": "The Deathslinger",
+            "KillerNotes": "",
             "IsDisabled": false,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -1819,13 +1839,14 @@
         },
         {
             "Name": "The Executioner",
+            "KillerNotes": "",
             "IsDisabled": true,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -1914,13 +1935,14 @@
         },
         {
             "Name": "The Blight",
+            "KillerNotes": "",
             "IsDisabled": false,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -2009,13 +2031,14 @@
         },
         {
             "Name": "The Twins",
+            "KillerNotes": "",
             "IsDisabled": true,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -2104,13 +2127,14 @@
         },
         {
             "Name": "The Trickster",
+            "KillerNotes": "",
             "IsDisabled": false,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -2199,13 +2223,14 @@
         },
         {
             "Name": "The Nemesis",
+            "KillerNotes": "",
             "IsDisabled": true,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -2294,13 +2319,14 @@
         },
         {
             "Name": "The Cenobite",
+            "KillerNotes": "",
             "IsDisabled": true,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -2389,13 +2415,14 @@
         },
         {
             "Name": "The Artist",
+            "KillerNotes": "",
             "IsDisabled": true,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -2484,13 +2511,14 @@
         },
         {
             "Name": "The Onryo",
+            "KillerNotes": "",
             "IsDisabled": false,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -2579,13 +2607,14 @@
         },
         {
             "Name": "The Dredge",
+            "KillerNotes": "",
             "IsDisabled": true,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -2674,13 +2703,14 @@
         },
         {
             "Name": "The Mastermind",
+            "KillerNotes": "",
             "IsDisabled": true,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -2769,13 +2799,14 @@
         },
         {
             "Name": "The Knight",
+            "KillerNotes": "",
             "IsDisabled": true,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -2864,13 +2895,14 @@
         },
         {
             "Name": "The Skull Merchant",
+            "KillerNotes": "",
             "IsDisabled": true,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -2959,13 +2991,14 @@
         },
         {
             "Name": "The Singularity",
+            "KillerNotes": "",
             "IsDisabled": false,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -3054,13 +3087,14 @@
         },
         {
             "Name": "The Xenomorph",
+            "KillerNotes": "",
             "IsDisabled": false,
             "Map": [
-                0,
-                4,
-                13,
-                25,
-                38
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
@@ -3149,13 +3183,110 @@
         },
         {
             "Name": "The Good Guy",
+            "KillerNotes": "",
             "IsDisabled": false,
             "Map": [
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
+            ],
+            "BalanceTiers": [
+                0
+            ],
+            "SurvivorBalanceTiers": [
+                0
+            ],
+            "AntiFacecampPermitted": false,
+            "KillerIndvPerkBans": [],
+            "KillerComboPerkBans": [],
+            "SurvivorIndvPerkBans": [],
+            "SurvivorComboPerkBans": [],
+            "SurvivorWhitelistedPerks": [],
+            "SurvivorWhitelistedComboPerks": [],
+            "KillerWhitelistedPerks": [],
+            "KillerWhitelistedComboPerks": [],
+            "AddonTiersBanned": [
+                4,
+                3
+            ],
+            "IndividualAddonBans": [],
+            "ItemWhitelist": [
                 0,
                 4,
-                13,
-                25,
-                38
+                7,
+                8,
+                14,
+                15
+            ],
+            "AddonWhitelist": {
+                "Firecracker": {
+                    "Addons": []
+                },
+                "Flashlight": {
+                    "Addons": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9
+                    ]
+                },
+                "Med-Kit": {
+                    "Addons": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ]
+                },
+                "Toolbox": {
+                    "Addons": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "Key": {
+                    "Addons": []
+                },
+                "Map": {
+                    "Addons": []
+                }
+            },
+            "SurvivorOfferings": [
+                0,
+                2,
+                5,
+                6
+            ],
+            "KillerOfferings": [
+                5
+            ]
+        },
+        {
+            "Name": "The Unknown",
+            "KillerNotes": "",
+            "IsDisabled": false,
+            "Map": [
+                "0",
+                "4",
+                "8",
+                "20",
+                "33"
             ],
             "BalanceTiers": [
                 0
