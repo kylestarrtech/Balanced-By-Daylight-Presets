@@ -1,6 +1,6 @@
 {
-    "Name": "NEW OTF TEST",
-    "Version": 1710773394,
+    "Name": "Outrun The Fog (2024)",
+    "Version": 1708920169,
     "MaxPerkRepetition": 1,
     "GlobalNotes": "",
     "Tiers": [
@@ -373,7 +373,7 @@
         },
         {
             "Name": "The Wraith",
-            "KillerNotes": "THIS IS A TEST TO SEE IF BALANCING IS UPDATING ON THE SERVERSIDE APPROPRIATELY!!!!!!!!",
+            "KillerNotes": "",
             "IsDisabled": false,
             "Map": [
                 "6",
@@ -393,7 +393,6 @@
             ],
             "KillerComboPerkBans": [],
             "SurvivorIndvPerkBans": [
-                "3",
                 "85",
                 "97",
                 "111"
@@ -406,11 +405,7 @@
             "AddonTiersBanned": [],
             "IndividualAddonBans": [
                 37,
-                39,
-                20,
-                21,
-                22,
-                23
+                39
             ],
             "ItemWhitelist": [
                 0,
