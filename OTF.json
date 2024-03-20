@@ -1,6 +1,6 @@
 {
     "Name": "Outrun The Fog (2024)",
-    "Version": 1708920169,
+    "Version": 1710897547,
     "MaxPerkRepetition": 1,
     "GlobalNotes": "",
     "Tiers": [
@@ -20,12 +20,12 @@
                 "25",
                 "246",
                 "28",
-                "248",
                 "40",
                 "43",
                 "46",
                 "49",
                 "55",
+                "252",
                 "59",
                 "62",
                 "66",
@@ -40,11 +40,14 @@
                 "98",
                 "106",
                 "108",
-                "110"
+                "110",
+                "253",
+                "254"
             ],
             "KillerIndvPerkBans": [
                 "133",
                 "134",
+                "245",
                 "147",
                 "149",
                 "151",
@@ -53,13 +56,17 @@
                 "170",
                 "171",
                 "175",
+                "184",
                 "186",
                 "195",
                 "205",
                 "209",
                 "227",
                 "235",
-                "238"
+                "238",
+                "249",
+                "250",
+                "251"
             ],
             "SurvivorComboPerkBans": [
                 [
@@ -448,7 +455,7 @@
         },
         {
             "Name": "The Hillbilly",
-            "KillerNotes": "Running ANY combination of addons where both addons are one of \"LoPro Chains\", \"Thompson Mix\", or \"Greased Throttle\" is prohibited.",
+            "KillerNotes": "",
             "IsDisabled": false,
             "Map": [
                 "6",
@@ -474,7 +481,9 @@
             "KillerWhitelistedPerks": [],
             "KillerWhitelistedComboPerks": [],
             "AddonTiersBanned": [],
-            "IndividualAddonBans": [],
+            "IndividualAddonBans": [
+                54
+            ],
             "ItemWhitelist": [
                 5,
                 0
@@ -1024,7 +1033,6 @@
             "KillerNotes": "",
             "IsDisabled": false,
             "Map": [
-                "32",
                 "34"
             ],
             "BalanceTiers": [
@@ -1055,9 +1063,10 @@
             "AddonTiersBanned": [],
             "IndividualAddonBans": [
                 212,
-                213,
                 215,
-                218
+                218,
+                216,
+                217
             ],
             "ItemWhitelist": [
                 5,
@@ -2057,8 +2066,7 @@
             "AntiFacecampPermitted": false,
             "KillerIndvPerkBans": [
                 "150",
-                "163",
-                "185"
+                "163"
             ],
             "KillerComboPerkBans": [],
             "SurvivorIndvPerkBans": [
@@ -2188,8 +2196,7 @@
             "KillerNotes": "",
             "IsDisabled": false,
             "Map": [
-                "20",
-                "32"
+                "34"
             ],
             "BalanceTiers": [
                 0
@@ -2221,7 +2228,8 @@
             ],
             "IndividualAddonBans": [
                 531,
-                536
+                532,
+                535
             ],
             "ItemWhitelist": [
                 5,
@@ -2583,7 +2591,10 @@
             "KillerWhitelistedComboPerks": [],
             "AddonTiersBanned": [],
             "IndividualAddonBans": [
-                638
+                638,
+                637,
+                635,
+                636
             ],
             "ItemWhitelist": [
                 0,
